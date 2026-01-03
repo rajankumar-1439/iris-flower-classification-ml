@@ -5,6 +5,7 @@
 👉 A machine learning model that predicts the species of an iris flower based on sepal and petal measurements.✅
 
 
+
 🔍 Overview
 
 This project focuses on building a supervised machine learning classification model using the famous Iris dataset.✅
@@ -17,6 +18,7 @@ The project covers:
 ✅Model training and evaluation
 
 ✅Prediction on unseen data
+
 
 ❓ Problem Statement
 
@@ -39,7 +41,7 @@ Versicolor
 Virginica
 
 
-📊 Dataset:- <a href="https://github.com/rajankumar-1439/iris-flower-classification-ml/blob/main/iris_data.csv">Iris_Dataset viwe </a>
+📊 Dataset:- <a href="https://github.com/rajankumar-1439/iris-flower-classification-ml/blob/main/iris_data.csv">Iris Dataset viwe </a>
 
 📌 Dataset Name: Iris Dataset
 
@@ -50,6 +52,7 @@ Total samples: 150
 Features: 4
 
 Classes: 3
+
 
 ✅Feature Name	Description:-
 
@@ -62,21 +65,13 @@ Petal Length	Length of petal (cm)
 Petal Width	Width of petal (cm)
 
 
+
 🛠️ Tools & Technologies
 
 Used only what is necessary —
 
-  Python
+  Python, NumPy, Pandas, streamlit, Scikit-learn, Jupyter Notebook
 
-  NumPy
-
-  Pandas
-
-  Scikit-learn
-
-  streamlit
-
-  Jupyter Notebook
 
 
 ⚙️ Methodology
@@ -97,24 +92,31 @@ Step-by-step workflow:
 
 Simple, logical, reproducible.
 
+
+
 🤖 Model Used
 
 ✅ Logistic Regression
 
-  Why?
+      Why?
 
-   Lightweight
+      Lightweight
 
-   Works well for small datasets
+      Works well for small datasets
 
-   Easy to interpret
+      Easy to interpret
+
 
 
 📈 Key Insights
 
 🔹 Setosa class is easily separable
+
 🔹 Petal length & width are the most important features
+
 🔹 Model achieves high accuracy due to clean dataset
+
+
 
 
 📊 Model Output / Results
@@ -126,40 +128,43 @@ Simple, logical, reproducible.
   Correctly classifies most unseen samples✅
 
 
+
+
 ▶️ How to Run This Project
+
 🔹 Step-by-Step: Run the Streamlit ML Model
 
-1️⃣ Open the project folder
-Make sure the folder contains model.py.
+    1️⃣ Open the project folder:
+    
+    Make sure the folder contains model.py.
 
-2️⃣ Open Terminal / Command Prompt in that folder
+   2️⃣ Open Terminal / Command Prompt in that folder
 
-In VS Code:
-Open in Integrated Terminal
+   In VS Code:
+   Open in Integrated Terminal
 
+  3️⃣ Run the Streamlit app:-
+  Type the following command and press Enter:
 
-3️⃣ Run the Streamlit app:-
-Type the following command and press Enter:
-
-streamlit run model.py
-
-
-4️⃣ Webpage opens automatically
-
-A browser window will open 
+  streamlit run model.py
 
 
-5️⃣ Enter input values
+  4️⃣ Webpage opens automatically
 
-Fill in the required input fields on the webpage as per your use case.
+  A browser window will open 
 
-6️⃣ Get the prediction
 
-Click the Predict button.
+  5️⃣ Enter input values
 
-The trained model will process the inputs and display the predicted output instantly.
+  Fill in the required input fields on the webpage as per your use case.
 
-. dashboard <a href="https://github.com/rajankumar-1439/iris-flower-classification-ml/blob/main/Screenshot%202026-01-03%20121125.png">Dashboard Viwe</a>
+  6️⃣ Get the prediction
+
+  Click the Predict button.
+
+  The trained model will process the inputs and display the predicted output instantly.
+
+ <a href="https://github.com/rajankumar-1439/iris-flower-classification-ml/blob/main/Screenshot%202026-01-03%20121125.png">Dashboard Viwe</a>
 
 <img width="1338" height="634" alt="Screenshot 2026-01-03 121125" src="https://github.com/user-attachments/assets/689a3f79-dc19-43f8-9970-4a3148414d66" />
 
@@ -167,12 +172,16 @@ The trained model will process the inputs and display the predicted output insta
 
 ✅ Results & Conclusion
 
-🎯 The machine learning model successfully predicts iris flower species with high accuracy.
-🎯 Demonstrates the complete ML pipeline from data to prediction.
-🎯 Ideal beginner-level classification project.
+   🎯 The machine learning model successfully predicts iris flower species with high accuracy.
 
-Conclusion:
-Simple dataset + correct workflow = strong results
+   🎯 Demonstrates the complete ML pipeline from data to prediction.
+
+   🎯 Ideal beginner-level classification project.
+
+   Conclusion:
+   Simple dataset + correct workflow = strong results
+
+
 
 🚀 Future Work
 
