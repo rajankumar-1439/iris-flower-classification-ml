@@ -127,7 +127,7 @@ Simple, logical, reproducible.
 
     1️⃣ Open the project folder:-
     
-    Make sure the folder contains model.py
+     ✅model.py
 
    2️⃣ Open Terminal / Command Prompt in that folder
 
