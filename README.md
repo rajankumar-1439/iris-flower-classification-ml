@@ -70,7 +70,7 @@ Petal Width	Width of petal (cm)
 
 Used only what is necessary —
 
-  Python, NumPy, Pandas, streamlit, Scikit-learn, Jupyter Notebook
+  ✅Python, ✅NumPy, ✅Pandas, ✅streamlit, ✅Scikit-learn, ✅Jupyter Notebook
 
 
 
@@ -97,15 +97,6 @@ Simple, logical, reproducible.
 🤖 Model Used
 
 ✅ Logistic Regression
-
-      Why?
-
-      Lightweight
-
-      Works well for small datasets
-
-      Easy to interpret
-
 
 
 📈 Key Insights
@@ -143,7 +134,7 @@ Simple, logical, reproducible.
    In VS Code:
    Open in Integrated Terminal
 
-  3️⃣ Run the Streamlit app:-
+   3️⃣ Run the Streamlit app:-
   Type the following command and press Enter:
 
   streamlit run model.py
