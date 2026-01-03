@@ -123,6 +123,10 @@ Simple, logical, reproducible.
 
 ▶️ How to Run This Project
 
+      1️⃣ Open the project folder:-
+    
+     ✅model.py
+
 🔹 Step-by-Step: Run the Streamlit ML Model
 
     1️⃣ Open the project folder:-
