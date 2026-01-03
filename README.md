@@ -84,10 +84,15 @@ Used only what is necessary —
 Step-by-step workflow:
 
 1️⃣ Load the Iris dataset
+
 2️⃣ Convert data into DataFrame
+
 3️⃣ Split data into training and testing sets
+
 4️⃣ Train classification model
+
 5️⃣ Evaluate model performance
+
 6️⃣ Predict species for new inputs
 
 Simple, logical, reproducible.
@@ -182,7 +187,7 @@ Deploy model using Flask or Streamlit
 
 👤 Author & Contact
 
-    Rajan Kumar
+   Rajan kumar
 
 📧 Email: rajankumarmu1439@gmail.com
 
