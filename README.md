@@ -125,27 +125,27 @@ Simple, logical, reproducible.
 
 🔹 Step-by-Step: Run the Streamlit ML Model
 
-   2️⃣ Open Terminal / Command Prompt in that folder
+   --> Open Folder / Terminal / Command Prompt in that folder
 
    In VS Code:
-   Open in Integrated Terminal
+   Open model.py and Integrated Terminal
 
-   3️⃣ Run the Streamlit app:-
+   --> Run the Streamlit app:-
   Type the following command and press Enter:
 
   streamlit run model.py
 
 
-  4️⃣ Webpage opens automatically
+  --> Webpage opens automatically
 
   A browser window will open 
 
 
-  5️⃣ Enter input values
+  --> Enter input values
 
   Fill in the required input fields on the webpage as per your use case.
 
-  6️⃣ Get the prediction
+  --> Get the prediction
 
   Click the Predict button.
 
