@@ -125,9 +125,9 @@ Simple, logical, reproducible.
 
 🔹 Step-by-Step: Run the Streamlit ML Model
 
-    1️⃣ Open the project folder:
+    1️⃣ Open the project folder:-
     
-    Make sure the folder contains model.py.
+    Make sure the folder contains model.py
 
    2️⃣ Open Terminal / Command Prompt in that folder
 
